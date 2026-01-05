@@ -79,3 +79,2853 @@ Not Found: /flutter_service_worker.js
 C:\Users\avrai\PycharmProjects\timber BE\apps\users\views.py changed, reloading.
 Watching for file changes with StatReloader
 Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /api/v1/auth/register/
+"POST /api/v1/auth/register/ HTTP/1.1" 400 87
+Bad Request: /api/v1/auth/register/
+"POST /api/v1/auth/register/ HTTP/1.1" 400 87
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 44394
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 44394
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Forbidden: /api/v1/statistics/
+"GET /api/v1/statistics/ HTTP/1.1" 403 58
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\core\views.py changed, reloading.
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Bad Request: /api/v1/auth/login/
+"POST /api/v1/auth/login/ HTTP/1.1" 400 44
+Bad Request: /api/v1/auth/login/
+"POST /api/v1/auth/login/ HTTP/1.1" 400 44
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/statistics/ HTTP/1.1" 200 365
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 179
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/v1/statistics/ HTTP/1.1" 200 365
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Forbidden: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 403 82
+Forbidden: /api/v1/auth/login/
+"POST /api/v1/auth/login/ HTTP/1.1" 403 82
+"GET /api/docs/ HTTP/1.1" 200 4455
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 179
+Forbidden: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 403 82
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Forbidden: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 403 82
+Forbidden: /api/v1/auth/login/
+"POST /api/v1/auth/login/ HTTP/1.1" 403 82
+Forbidden: /api/v1/auth/login/
+"POST /api/v1/auth/login/ HTTP/1.1" 403 82
+"GET /api/docs/ HTTP/1.1" 200 4455
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 179
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 175, in post
+    return super().post(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 242, in post
+    return self.create(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 18, in create
+    serializer.is_valid(raise_exception=True)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\serializers.py", line 227, in is_valid
+    self._validated_data = self.run_validation(self.initial_data)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\serializers.py", line 426, in run_validation
+    value = self.to_internal_value(data)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\serializers.py", line 483, in to_internal_value
+    validated_value = field.run_validation(primitive_value)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\fields.py", line 751, in run_validation
+    return super().run_validation(data)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\fields.py", line 548, in run_validation
+    self.run_validators(value)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\fields.py", line 560, in run_validators
+    validator(value, self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\validators.py", line 73, in __call__
+    if qs_exists(queryset):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\validators.py", line 21, in qs_exists
+    return queryset.exists()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1241, in exists
+    return self.query.has_results(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 598, in has_results
+    return compiler.has_results()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1530, in has_results
+    return bool(self.execute_sql(SINGLE))
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"POST /api/v1/organizations/customers/ HTTP/1.1" 500 145
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"OPTIONS /api/v1/auth/login/ HTTP/1.1" 200 0
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"OPTIONS /api/v1/organizations/customers HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers HTTP/1.1" 301 0
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Forbidden: /api/v1/organizations/customers/
+"GET /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 167, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/customers/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: customers
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 168, in get
+    return super().get(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 239, in get
+    return self.list(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 40, in list
+    page = self.paginate_queryset(queryset)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 171, in paginate_queryset
+    return self.paginator.paginate_queryset(queryset, self.request, view=self)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\pagination.py", line 204, in paginate_queryset
+    self.page = paginator.page(page_number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 72, in page
+    number = self.validate_number(number)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 53, in validate_number
+    if number > self.num_pages:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 99, in num_pages
+    if self.count == 0 and not self.allow_empty_first_page:
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\functional.py", line 57, in __get__
+    res = instance.__dict__[self.name] = self.func(instance)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\paginator.py", line 93, in count
+    return c()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 608, in count
+    return self.query.get_count(using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 568, in get_count
+    return obj.get_aggregation(using, {"__count": Count("*")})["__count"]
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\query.py", line 554, in get_aggregation
+    result = compiler.execute_sql(SINGLE)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1562, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: customers
+"GET /api/v1/organizations/customers/ HTTP/1.1" 500 145
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 52
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Forbidden: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 403 58
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 52
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 250
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 302
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 236
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 539
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 271
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 239
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+- Broken pipe from ('127.0.0.1', 60069)
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+- Broken pipe from ('127.0.0.1', 58650)
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+- Broken pipe from ('127.0.0.1', 56863)
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+- Broken pipe from ('127.0.0.1', 62366)
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1051
+- Broken pipe from ('127.0.0.1', 62142)
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 814
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 814
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 814
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 239
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1054
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1054
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 232
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1287
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1287
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1287
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1287
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 52
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 52
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 52
+- Broken pipe from ('127.0.0.1', 60467)
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 267
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 319
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 270
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 590
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 277
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 58202
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 868
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 264
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1133
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 249
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 71933
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 71933
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+Bad Request: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 400 40
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 400 40
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+Bad Request: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 400 40
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 400 40
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"POST /api/v1/organizations/projects/ HTTP/1.1" 201 177
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 331
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"POST /api/v1/organizations/projects/ HTTP/1.1" 201 193
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 627
+"POST /api/v1/organizations/projects/ HTTP/1.1" 201 191
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 110564
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 175
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"POST /api/v1/organizations/products/ HTTP/1.1" 201 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 201 365
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 201 349
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 110564
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+Forbidden: /api/v1/organizations/products/
+"GET /api/v1/organizations/products/ HTTP/1.1" 403 58
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"POST /api/v1/auth/login/ HTTP/1.1" 200 325
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 110564
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 231
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 921
+"POST /api/v1/organizations/projects/ HTTP/1.1" 201 180
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 178
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 125
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 72
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 72
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 90
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 1104
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+Bad Request: /api/v1/organizations/estimate-headers/
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 400 1076
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 938
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 201 329
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 117253
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1917
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1340
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 1890
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/estimate-headers/d35658ab-3229-4836-9ab9-76569a59fb90/ HTTP/1.1" 200 0
+"PATCH /api/v1/organizations/estimate-headers/d35658ab-3229-4836-9ab9-76569a59fb90/ HTTP/1.1" 200 960
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2395
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2395
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2395
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 0
+"PATCH /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 961
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 136631
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 123
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1383
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"POST /api/v1/organizations/customers/ HTTP/1.1" 201 264
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 123
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 73
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 2900
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Bad Request: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 400 54
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 0
+Bad Request: /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/
+"PATCH /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 400 71
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 1462
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 136631
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 136631
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/job-cards/ HTTP/1.1" 200 0
+Bad Request: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 400 53
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+sqlite3.OperationalError: no such table: job_cards
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\utils\decorators.py", line 46, in _wrapper
+    return bound_method(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py", line 487, in post
+    return super().post(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\generics.py", line 242, in post
+    return self.create(request, *args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 19, in create
+    self.perform_create(serializer)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\mixins.py", line 24, in perform_create
+    serializer.save()
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\rest_framework\serializers.py", line 212, in save
+    self.instance = self.create(validated_data)
+  File "C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py", line 540, in create
+    return JobCard.objects.create(estimate_header=estimate_header, **validated_data)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 658, in create
+    obj.save(force_insert=True, using=self.db)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 814, in save
+    self.save_base(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 877, in save_base
+    updated = self._save_table(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1020, in _save_table
+    results = self._do_insert(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\base.py", line 1061, in _do_insert
+    return manager._insert(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\manager.py", line 87, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\query.py", line 1805, in _insert
+    return query.get_compiler(using=using).execute_sql(returning_fields)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\models\sql\compiler.py", line 1822, in execute_sql
+    cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "C:\Users\avrai\AppData\Local\Programs\Python\Python39\lib\site-packages\django\db\backends\sqlite3\base.py", line 328, in execute
+    return super().execute(query, params)
+django.db.utils.OperationalError: no such table: job_cards
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 145
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/docs/ HTTP/1.1" 200 4455
+"GET /api/schema/ HTTP/1.1" 200 136631
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Not Found: /flutter_service_worker.js
+"GET /flutter_service_worker.js?v=2309454500 HTTP/1.1" 404 179
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 98
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 201 430
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+- Broken pipe from ('127.0.0.1', 49668)
+- Broken pipe from ('127.0.0.1', 62354)
+- Broken pipe from ('127.0.0.1', 64114)
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 570
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 836
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 836
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 836
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/job-cards/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 588
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 603
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 603
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 201 431
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 1177
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 201 433
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 1738
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 1738
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 500 33
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 1738
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 201 456
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2550
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2550
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2550
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/job-cards/6d1be75f-2988-490d-a8a7-c97330a45f5c/ HTTP/1.1" 200 0
+Bad Request: /api/v1/organizations/job-cards/6d1be75f-2988-490d-a8a7-c97330a45f5c/
+"PATCH /api/v1/organizations/job-cards/6d1be75f-2988-490d-a8a7-c97330a45f5c/ HTTP/1.1" 400 82
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2550
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"PATCH /api/v1/organizations/job-cards/6d1be75f-2988-490d-a8a7-c97330a45f5c/ HTTP/1.1" 200 456
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3401
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2550
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 0
+"PATCH /api/v1/organizations/estimate-headers/f11dea41-ac18-467f-9eb3-9c7337e32379/ HTTP/1.1" 200 1464
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1204
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"POST /api/v1/organizations/projects/ HTTP/1.1" 201 176
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+Watching for file changes with StatReloader
+"OPTIONS /api/v1/organizations/customers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/projects/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/job-cards/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"OPTIONS /api/v1/organizations/products/ HTTP/1.1" 200 0
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+Internal Server Error: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 500 141
+Internal Server Error: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 500 251
+Internal Server Error: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 500 141
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+Internal Server Error: /api/v1/organizations/customers/
+"POST /api/v1/organizations/customers/ HTTP/1.1" 500 141
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 3403
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"POST /api/v1/organizations/estimate-headers/ HTTP/1.1" 201 299
+"OPTIONS /api/v1/organizations/estimate-headers/76c75036-db85-4173-bdd9-4b01dbfa670e/ HTTP/1.1" 200 0
+Internal Server Error: /api/v1/organizations/estimate-headers/76c75036-db85-4173-bdd9-4b01dbfa670e/
+"PATCH /api/v1/organizations/estimate-headers/76c75036-db85-4173-bdd9-4b01dbfa670e/ HTTP/1.1" 500 93
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4290
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4290
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4290
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/estimate-headers/80e3af3b-c27d-4cc6-b13f-c2e402dc11ad/ HTTP/1.1" 200 0
+"PATCH /api/v1/organizations/estimate-headers/80e3af3b-c27d-4cc6-b13f-c2e402dc11ad/ HTTP/1.1" 200 885
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 2558
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/estimate-headers/80e3af3b-c27d-4cc6-b13f-c2e402dc11ad/ HTTP/1.1" 200 885
+"POST /api/v1/organizations/job-cards/ HTTP/1.1" 201 516
+"OPTIONS /api/v1/organizations/job-cards/b806acbd-8b39-4045-b7c4-3ab62c7a71ae/ HTTP/1.1" 200 0
+Internal Server Error: /api/v1/organizations/job-cards/b806acbd-8b39-4045-b7c4-3ab62c7a71ae/
+"PATCH /api/v1/organizations/job-cards/b806acbd-8b39-4045-b7c4-3ab62c7a71ae/ HTTP/1.1" 500 86
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 0
+Internal Server Error: /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 500 144
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 500 148
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3432
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 367
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3283
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"OPTIONS /api/v1/organizations/job-cards/8266575b-dcaf-4c80-ac23-8a9fcad70e86/ HTTP/1.1" 200 0
+Internal Server Error: /api/v1/organizations/job-cards/8266575b-dcaf-4c80-ac23-8a9fcad70e86/
+"PATCH /api/v1/organizations/job-cards/8266575b-dcaf-4c80-ac23-8a9fcad70e86/ HTTP/1.1" 500 148
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\models.py changed, reloading.
+Watching for file changes with StatReloader
+"PATCH /api/v1/organizations/job-cards/8266575b-dcaf-4c80-ac23-8a9fcad70e86/ HTTP/1.1" 200 348
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3201
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 369
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3203
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 365
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 367
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 369
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 365
+Internal Server Error: /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 500 137
+Internal Server Error: /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 500 144
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3199
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 369
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 367
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 369
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3203
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 367
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 369
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 490
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3324
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"PATCH /api/v1/organizations/job-cards/f23ba899-ce2c-4e90-9927-4c1367d8c45e/ HTTP/1.1" 200 488
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/projects/
+"GET /api/v1/organizations/projects/ HTTP/1.1" 500 76
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\avrai\PycharmProjects\timber_BE1\timber_BE1\apps\organizations\views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/projects/ HTTP/1.1" 200 1483
+"GET /api/v1/organizations/customers/ HTTP/1.1" 200 1648
+"GET /api/v1/organizations/estimate-headers/ HTTP/1.1" 200 4289
+"GET /api/v1/organizations/job-cards/ HTTP/1.1" 200 3322
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+"GET /api/v1/organizations/products/ HTTP/1.1" 200 3299
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110
+Internal Server Error: /api/v1/organizations/projects/
+"POST /api/v1/organizations/projects/ HTTP/1.1" 500 110

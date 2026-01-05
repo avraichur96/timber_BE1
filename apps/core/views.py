@@ -14,7 +14,7 @@ User = get_user_model()
     responses={200: dict},
 )
 @api_view(["GET"])
-@permission_classes([permissions.AllowAny])
+@permission_classes([permissions.IsAuthenticated])
 def health_check(request):
     """
     Dummy listing endpoint that provides basic API information
@@ -24,6 +24,11 @@ def health_check(request):
         "status": "healthy",
         "message": "Timber BE API is running",
         "version": "1.0.0",
+        "authenticated_user": {
+            "id": request.user.id,
+            "email": request.user.email,
+            "is_email_verified": request.user.is_email_verified,
+        },
         "endpoints": {
             "auth": {
                 "register": "/api/v1/auth/register/",
