@@ -11,7 +11,7 @@ DEBUG = config("DEBUG", default=False, cast=bool)
 
 ALLOWED_HOSTS = config(
     "ALLOWED_HOSTS",
-    default="localhost,127.0.0.1",
+    default="localhost,127.0.0.1,0.0.0.0",
     cast=lambda v: [s.strip() for s in v.split(",")],
 )
 
@@ -204,9 +204,18 @@ if DEBUG and not EMAIL_HOST_PASSWORD:
 # CORS Settings
 CORS_ALLOWED_ORIGINS = config(
     "CORS_ALLOWED_ORIGINS",
-    default="http://localhost:3000,http://127.0.0.1:3000",
+    default="http://localhost:3000,http://127.0.0.1:3000,http://0.0.0.0:3000",
     cast=lambda v: [s.strip() for s in v.split(",")],
 )
+
+# Allow all origins for development (remove in production)
+CORS_ALLOW_ALL_ORIGINS = config("CORS_ALLOW_ALL_ORIGINS", default=DEBUG, cast=bool)
+
+# Allow all headers for development
+CORS_ALLOW_ALL_HEADERS = config("CORS_ALLOW_ALL_HEADERS", default=DEBUG, cast=bool)
+
+# Allow all methods for development3
+CORS_ALLOW_ALL_METHODS = config("CORS_ALLOW_ALL_METHODS", default=DEBUG, cast=bool)
 
 # Session Settings
 SESSION_COOKIE_AGE = 86400  # 24 hours
