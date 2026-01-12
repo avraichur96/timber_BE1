@@ -11,7 +11,7 @@ DEBUG = config("DEBUG", default=False, cast=bool)
 
 ALLOWED_HOSTS = config(
     "ALLOWED_HOSTS",
-    default="localhost,127.0.0.1,0.0.0.0",
+    default="localhost,127.0.0.1,0.0.0.0,43.204.100.237",
     cast=lambda v: [s.strip() for s in v.split(",")],
 )
 
