@@ -70,7 +70,7 @@ TEMPLATES = [
 WSGI_APPLICATION = "timber_be.wsgi.application"
 
 # Database Configuration
-ENV = config("ENV", default="development")
+ENV = config("ENV", default="production")
 
 # Use SQLite for development if PostgreSQL is not available
 if ENV == "development" and not config(
@@ -86,14 +86,11 @@ elif ENV == "production":
     DATABASES = {
         "default": {
             "ENGINE": "django.db.backends.postgresql",
-            "NAME": config("DB_NAME"),
-            "USER": config("DB_USER"),
-            "PASSWORD": config("DB_PASSWORD"),
-            "HOST": config("DB_HOST", default="localhost"),
-            "PORT": config("DB_PORT", default="5432"),
-            "OPTIONS": {
-                "sslmode": "require",
-            },
+            "NAME": "timber_db",
+            "USER": "django_user",
+            "PASSWORD":"test1234",
+            "HOST": "localhost",
+            "PORT": "5432"
         }
     }
 else:
