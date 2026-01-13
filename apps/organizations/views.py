@@ -365,17 +365,10 @@ class ProjectListCreateView(generics.ListCreateAPIView):
     )
     def post(self, request, *args, **kwargs):
         try:
-            # serializer = ProjectPostSerializer(data=request.data)
-            # if serializer.is_valid():
-            #     serializer.save()
-            #     return Response(serializer.data, status=status.HTTP_201_CREATED)
-            return Response(
-                {
-                    "error": "Internal server error",
-                    "error_detail": "Project creation simulation error - feature not implemented"
-                }, 
-                status=status.HTTP_500_INTERNAL_SERVER_ERROR
-            )
+            serializer = ProjectPostSerializer(data=request.data)
+            if serializer.is_valid():
+                serializer.save()
+                return Response(serializer.data, status=status.HTTP_201_CREATED)
         except Exception as e:
             logger.error(f"Error in ProjectListCreateView.post: {str(e)}", exc_info=True)
             return Response(
